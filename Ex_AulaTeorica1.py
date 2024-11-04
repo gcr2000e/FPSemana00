@@ -34,4 +34,4 @@ while (True):
  else:
     print("I dont understand " + command + "!")
     
-    position = (x,y)
+position = (x,y)
